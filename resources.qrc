@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/close.png</file>
+        <file>images/new.png</file>
+        <file>images/brush.png</file>
+        <file>images/washer.png</file>
+        <file>images/circle.png</file>
+        <file>images/line.png</file>
+        <file>images/square.png</file>
+    </qresource>
+</RCC>
